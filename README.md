@@ -91,35 +91,6 @@ For some application, the addition of a few sensors is also in progress.
   <img src="https://github.com/user-attachments/assets/b490d087-e5e6-4c99-870d-383d8adb6c1e" alt="Components" width="50%" />
 </p>
 
-## Installation & Setup
-
-# Hardware Instructions
-
-### 1. Printing the Parts
-- **Start by printing all the required parts.**
-- Note that for this version, printing might not be the simplest task (unless you have a printer like the P1S or similar). You may need to experiment with the best orientations and use supports for optimal results.
-
-### 2. Assembly Instructions
-The assembly requires the following **M3 screws**:
-- **4x M3x4mm**: for securing the camera module.
-- **8x M3x3mm**: for assembling the case.
-- **2x M3x5mm**: for the camera adapter.
-
-### 3. USB-C Connection
-- Use a hot glue gun to securely glue the USB-C connection in place.
-
-### 4. Battery Installation
-- The battery is held securely in place by the two links when attached.
-
-### 5. PCB for the Buttons
-- The PCB for the buttons can be either:
-  - CNC'd at home, or
-  - Ordered from a PCB manufacturing company.
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8888a880-484f-4e36-bcb9-a7cf4610fcff" alt="Components" width="50%" />
-</p>
-
 # Software Instructions
 
 ### 1. Install Raspberry Pi OS
